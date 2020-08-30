@@ -1,10 +1,20 @@
-<h4>django-app</h4>
+<h4>face detection</h4>
 
+
+<h5>Introduction</h5>
+
+This is a categorization of Nogizaka 46 images.
+
+member
 <ul>
-  <li>1.helloworldproject</li>
-  <li>
+  <li>Shiraishi Mai</li>
+  <li>Nihino Nanase</li>
+  <li>Ikuta Erika</li>
+  <li>Saito Asuka</li>
+  <li>Hashimoto Nanami</li>
 </ul>
 
-This project displays HelloWorld.
-It's a simple. 
 
+
+<h5>reference</h5>
+https://aidemy.hatenablog.com/entry/2017/12/17/214715
